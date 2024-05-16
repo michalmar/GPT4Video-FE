@@ -1,0 +1,62 @@
+[
+    {
+        "Start_Timestamp": "0.959s",
+        "End_Timestamp": "4.796s",
+        "sentiment": "Neutral",
+        "scene_theme": "Mysterious",
+        "characters": "Person in vest and plaid shirt",
+        "summary": "A person, dressed in a padded vest and a plaid shirt, enters and explores a decrepit, tree-enclosed structure. The individual is initially seen near a tree and then moving closer to the mysterious dark interior of the building.",
+        "actions": "Walking towards and entering the building",
+        "key_objects": "Decaying wooden structure surrounded by dense foliage, decrepit tree, red plaid shirt, gray vest"
+    },
+    {
+        "Start_Timestamp": "5.755s",
+        "End_Timestamp": "9.592s",
+        "sentiment": "Neutral",
+        "scene_theme": "Explorative",
+        "characters": "Person in vest and plaid shirt",
+        "summary": "The person continues their exploration around the wooden structure. They pause and gestures toward different parts of the structure, perhaps indicating points of interest or areas of concern. The frames capture the individual as they interact with their surroundings in a wooded area.",
+        "actions": "Exploring, pointing, and gesturing towards various elements of the structure",
+        "key_objects": "Wooden structure, trees, red plaid shirt, gray vest"
+    },
+    {
+        "Start_Timestamp": "10.552s",
+        "End_Timestamp": "15.348s",
+        "sentiment": "Neutral",
+        "scene_theme": "Dramatic",
+        "characters": "Man with beard in winter gear",
+        "summary": "The scene starts with a man engaging with some form of environment, though the specific action is unclear. We then transition to a snow-covered area where a man named Jake Milarch is identified at the Archangel Tree Archive Headquarters. He is running through the snow, initially approaching and then moving parallel to the camera.",
+        "actions": "Man engaging with surroundings initially in one scene, followed by running in the snow",
+        "key_objects": "Snowy landscape, white houses, barn-like structures"
+    },
+    {
+        "Start_Timestamp": "15.348s",
+        "End_Timestamp": "19.185s",
+        "sentiment": "Neutral",
+        "scene_theme": "Informative",
+        "characters": "Man with beard in winter gear, Indoor setting",
+        "summary": "Continuing from the previous scene, Jake is seen moving briskly away from the camera, transitioning the scene indoors showing a room with shelves labeled REDWOODS and SEQUOIA, suggesting a focus on specific types of trees being preserved or studied.",
+        "actions": "Man running away, Indoor setting showcasing labeled shelves",
+        "key_objects": "Snowy paths, building exteriors, indoor lab-like setup with shelves labeled for specific tree species"
+    },
+    {
+        "Start_Timestamp": "20.145125s",
+        "End_Timestamp": "23.023s",
+        "sentiment": "Neutral",
+        "scene_theme": "Mysterious",
+        "characters": "Man in white lab coat",
+        "summary": "The video showcases a man in a white lab coat entering a laboratory setting. Initially, the room appears empty with the man making his way inside. The environment is sterile with various lab equipment visible. He is adjusting his attire, perhaps preparing to engage in some scientific work.",
+        "actions": "Man enters and prepares in the lab",
+        "key_objects": "Lab coats, lab equipment"
+    },
+    {
+        "Start_Timestamp": "23.023s",
+        "End_Timestamp": "28.77875s",
+        "sentiment": "Neutral",
+        "scene_theme": "Active",
+        "characters": "Man in white lab coat",
+        "summary": "The man starts to interact with the equipment in the lab, particularly focusing on a workbench labeled CLEAN BENCH. He moves quickly around the area, possibly conducting a series of tests or experiments. His actions are swift and deliberate, indicating urgency or importance in his tasks.",
+        "actions": "Man performs tasks at a clean bench",
+        "key_objects": "Clean bench, lab equipment, safety signage"
+    }
+]

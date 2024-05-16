@@ -1,0 +1,44 @@
+{
+    "Chapter 1: Reviving the Giants": {
+        "title": "Chapter 1: Reviving the Giants",
+        "start_frame": "0.0s",
+        "end_frame": "21.24s",
+        "scenes": [
+            {
+                "title": "Scene 1: Legacy of the Ranch",
+                "description": "A discussion about bringing a ranch-type property back to life through the process of micro-propagation."
+            },
+            {
+                "title": "Scene 2: The Journey Home",
+                "description": "The cuttings are transported overnight back to Kotlisch, Michigan for propagation."
+            },
+            {
+                "title": "Scene 3: Successful Propagation",
+                "description": "Micro-propagation is successfully performed on the cuttings."
+            }
+        ]
+    },
+    "Chapter 2: The Archangel Tree Archive Headquarters": {
+        "title": "Chapter 2: The Archangel Tree Archive Headquarters",
+        "start_frame": "21.24s",
+        "end_frame": "39.20583333333333s",
+        "scenes": [
+            {
+                "title": "Scene 1: A Snowy Encounter",
+                "description": "Jake Milarch is seen walking through a snow-covered landscape towards the Archangel Tree Archive Headquarters."
+            },
+            {
+                "title": "Scene 2: Indoor Growth",
+                "description": "Indoor shelves with labelled 'Redwoods' and 'Sequoia' indicate a controlled environment for sapling growth."
+            },
+            {
+                "title": "Scene 3: Delving into Micropropagation",
+                "description": "A detailed explanation of the lab's main goals focusing on research, development, and the process to exponentially multiply small cuttings."
+            },
+            {
+                "title": "Scene 4: The Replication Process",
+                "description": "The procedure of taking small cuttings, treating them with hormones, and the use of jars in the reproduction process to grow a substantial number of trees."
+            }
+        ]
+    }
+}
