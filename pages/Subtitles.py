@@ -21,4 +21,4 @@ with open(f"subtitles/{selected_subtitle}") as f:
 
 st.write(f"## Selected subtitle file: {selected_subtitle}")
 
-st.video("./subtitles/95388K11-short.mp4", subtitles=subtitle, autoplay=True)
+st.video("https://mmadatalake.blob.core.windows.net/tmp-shr/95388K11-short.mp4?sv=2023-11-03&st=2024-05-22T20%3A44%3A37Z&se=2025-05-23T20%3A44%3A00Z&sr=b&sp=r&sig=RGBppmQfMcNjxqA4KpyD8TehyWK5stb9NnKydcmbqKA%3D", subtitles=subtitle, autoplay=True)
